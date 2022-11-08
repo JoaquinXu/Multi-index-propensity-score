@@ -1,2 +1,2 @@
-# Multi-index-propensity-score
-R code example for implementing the multi-index propensity score estimator
+# Pseudo-observations and multi-index propensity score estimator
+R code example of implementing the pseudo-observations and multi-index propensity score estimator for survival probability causal effect
